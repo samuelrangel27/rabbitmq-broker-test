@@ -1,0 +1,6 @@
+@netploy.rabbit_producer.api_HostAddress = http://localhost:5290
+
+GET {{netploy.rabbit_producer.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
