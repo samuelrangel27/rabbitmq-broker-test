@@ -1,0 +1,6 @@
+@netploy.rabbit_consumer.api_HostAddress = http://localhost:5143
+
+GET {{netploy.rabbit_consumer.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

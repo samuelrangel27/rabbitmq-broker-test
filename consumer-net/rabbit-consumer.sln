@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5ECCFD6F-1A35-422D-8F05-31156DDDD144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netploy.rabbit-consumer.api", "src\netploy.rabbit-consumer.api\netploy.rabbit-consumer.api.csproj", "{26581E2D-E1B8-4D9C-82D6-E8FA3F0BB8EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26581E2D-E1B8-4D9C-82D6-E8FA3F0BB8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26581E2D-E1B8-4D9C-82D6-E8FA3F0BB8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26581E2D-E1B8-4D9C-82D6-E8FA3F0BB8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26581E2D-E1B8-4D9C-82D6-E8FA3F0BB8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{26581E2D-E1B8-4D9C-82D6-E8FA3F0BB8EE} = {5ECCFD6F-1A35-422D-8F05-31156DDDD144}
+	EndGlobalSection
+EndGlobal
